@@ -1,3 +1,3 @@
 # HypnoNerd
 
-Homeowner project developed from Big Nerd Ranch’s iOS Programming (4th Edition)
+HypnoNerd project developed from Big Nerd Ranch’s iOS Programming (4th Edition)
